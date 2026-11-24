@@ -2,7 +2,6 @@
 
 <!--
 Neue Entscheidung: 0000-vorlage.md kopieren, fortlaufend nummerieren (0001-..., 0002-...), Zeile in der Tabelle ergänzen.
-Struktur mit Richards & Ford (2020) abgleichen und Quelle in der Arbeit zitieren.
 -->
 
 | Nr. | Titel | Status | Datum |
